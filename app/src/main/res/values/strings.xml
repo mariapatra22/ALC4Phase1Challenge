@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC4 Phase 1 Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="welcome_msg">Welcome to ALC 4.0</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="name">  Mary Njoki </string>
+    <string name="track">  Track: Android </string>
+    <string name="country"> Country: Kenya </string>
+    <string name="email">  Email: mariapatra22@gmail.com </string>
+    <string name="phone"> Phone number: +254799923762 </string>
+    <string name="slack"> Slack Username: @MARY NJOKI  </string>
+    <string name="main_activity_title"> ALC 4 Phase 1 </string>
+
+</resources>
